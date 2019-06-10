@@ -3,8 +3,8 @@ data        hora    tempo
 10jun2019   09:16   05m     esqueleto das views com bs2
 10jun2019   09:21   10m     migration e o form signup
 10jun2019   09:33   05m     tabela users e link para o signup
-10jun2019   09:38   10m     basic/auth e signup
-10m     signup (die e done)
+10jun2019   09:38   10m     basic/auth e signup error
+10jun2019   09:46   05m     signup done
 10m     form de signin
 10m     signin (die e done)
 10m     nome na navbar e botão de logout
