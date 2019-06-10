@@ -1,3 +1,8 @@
+<div class="alert alert-error">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <h4>Erro</h4>
+    Digite os dados corretamente
+</div>
 <form class="" action="signup" method="post" id="signin">
     <fieldset>
         <legend><?php e($title); ?></legend>
@@ -10,3 +15,5 @@
         <button class="btn" type="submit"><?php e($title); ?></button>
     </fieldset>
 </form>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
