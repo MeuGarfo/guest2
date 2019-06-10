@@ -1,0 +1,13 @@
+.form-inline{
+    margin-top: 0.75em;
+}
+.logo{
+    margin-top:0.15em;
+}
+.logo a{
+    color: #333;
+}
+.logo a:hover{
+    color:gray;
+    text-decoration: none;
+}

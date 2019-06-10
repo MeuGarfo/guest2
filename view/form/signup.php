@@ -1,0 +1,12 @@
+<form class="" action="signup" method="post" id="signin">
+    <fieldset>
+        <legend><?php e($title); ?></legend>
+        <label for="signupName">Nome</label>
+        <input type="text" name="name" value="" class="input-block-level" id="signupName">
+        <label for="signupEmail">Email</label>
+        <input type="email" name="email" class="input-block-level" id="signupEmail">
+        <label for="signupPassword">Senha</label>
+        <input type="password" name="password" class="input-block-level" id="signupPassword">
+        <button class="btn" type="submit"><?php e($title); ?></button>
+    </fieldset>
+</form>
