@@ -8,7 +8,7 @@ data        hora    tempo
 10jun2019   09:53   10m     form de signin, die, done e logout
 10jun2019   10:02   10m     form da caixa de mensagens
 10jun2019   10:09   05m     criar mensagem
-10m     exibir user->name na mensagem usando join
+10jun2019   15:41   05m     exibir user->name na mensagem usando join
 05m     exibir a data formatada na mensagem
 05m     enviar a mensagem ao pressionar enter
 10m     apagar mensagem
@@ -18,4 +18,4 @@ data        hora    tempo
 05m     calcular o tempo total de desenvolvimento
 
 
-tempo máximo estimado = 2h30m
+tempo máximo estimado inicialmente = 2h30m
