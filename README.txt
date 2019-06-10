@@ -8,13 +8,8 @@ data        hora    tempo
 10jun2019   09:53   10m     form de signin, die, done e logout
 10jun2019   10:02   10m     form da caixa de mensagens
 10jun2019   10:09   05m     criar mensagem
-10jun2019   15:41   05m     exibir user->name na mensagem usando join
-05m     exibir a data formatada na mensagem
-05m     enviar a mensagem ao pressionar enter
-10m     apagar mensagem
-05m     exibir mensagens em ordem decrescente de id
-10m     consertar o label do signin responsivo
-05m     ajustar a margin-top e a cor do <h1>
+10jun2019   15:41   05m     exibir as mensagens
+10jun2019   15:46   95m     apagar mensagem
 05m     calcular o tempo total de desenvolvimento
 
 
