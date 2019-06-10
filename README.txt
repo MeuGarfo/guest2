@@ -1,6 +1,6 @@
 data        hora    tempo
 10jun2019   09:12   05m     esqueleto do site com pacotes basic
-05m     esqueleto das views com bs2
+10jun2019   09:16   05m     esqueleto das views com bs2
 10m     migration e o form signup
 10m     tabela users e alinhamento dos formulários
 10m     basic/auth e signup

@@ -1,0 +1,13 @@
+[
+    "inc",
+    "auth",
+    "controller",
+    "db",
+    "e",
+    "env",
+    "error",
+    "method",
+    "redirect",
+    "segment",
+    "view"
+]
