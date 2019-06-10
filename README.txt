@@ -18,4 +18,4 @@ data        hora    tempo
 05m     calcular o tempo total de desenvolvimento
 
 
-tempo estimado = 2h30m
+tempo máximo estimado = 2h30m
