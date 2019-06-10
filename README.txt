@@ -5,11 +5,9 @@ data        hora    tempo
 10jun2019   09:33   05m     tabela users e link para o signup
 10jun2019   09:38   10m     basic/auth e signup error
 10jun2019   09:46   05m     signup done
-10m     form de signin
-10m     signin (die e done)
-10m     nome na navbar e botão de logout
-10m     caixa de mensagens
-05m     criar mensagem
+10jun2019   09:53   10m     form de signin, die, done e logout
+10jun2019   10:02   10m     form da caixa de mensagens
+10jun2019   10:09   05m     criar mensagem
 10m     exibir user->name na mensagem usando join
 05m     exibir a data formatada na mensagem
 05m     enviar a mensagem ao pressionar enter

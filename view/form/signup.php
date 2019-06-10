@@ -9,7 +9,7 @@ if(isset($_GET['erro'])){
     <?php
 }
 ?>
-<form class="" action="signup" method="post" id="signin">
+<form class="" action="signup" method="post" id="signup">
     <fieldset>
         <legend><?php e($title); ?></legend>
         <label for="signupName">Nome</label>
@@ -21,5 +21,3 @@ if(isset($_GET['erro'])){
         <button class="btn" type="submit"><?php e($title); ?></button>
     </fieldset>
 </form>
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
