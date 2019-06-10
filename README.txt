@@ -14,3 +14,4 @@ data        hora    tempo
 
 tempo máximo estimado inicialmente = 2h30m
 tempo total gasto = 8*5+4*10 = 80m = 1h20m
+numero total de tarefas = 12 tarefas
