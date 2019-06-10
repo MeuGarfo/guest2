@@ -1,4 +1,4 @@
-data        hora    tempo
+data        hora    tempo   tarefa
 10jun2019   09:12   05m     esqueleto do site com pacotes basic
 10jun2019   09:16   05m     esqueleto das views com bs2
 10jun2019   09:21   10m     migration e o form signup
